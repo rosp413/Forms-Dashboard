@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <Properties>
+    <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+      <Dimension value="[1007, 694]"/>
+    </Property>
+  </Properties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jScrollPane1" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jScrollPane1" alignment="0" pref="656" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Container class="javax.swing.JPanel" name="jPanel1">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+          </Properties>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="jScrollPane4" alignment="1" min="-2" pref="944" max="-2" attributes="0"/>
+                          <Group type="103" alignment="1" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace min="-2" pref="46" max="-2" attributes="0"/>
+                                  <Component id="jLabel8" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace min="-2" pref="19" max="-2" attributes="0"/>
+                                  <Component id="jScrollPane3" min="-2" pref="933" max="-2" attributes="0"/>
+                              </Group>
+                              <Component id="jLabel9" alignment="0" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Group type="102" attributes="0">
+                              <EmptySpace min="-2" pref="178" max="-2" attributes="0"/>
+                              <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="jLabel7" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace min="-2" pref="20" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Component id="jLabel6" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="jLabel5" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace min="-2" pref="10" max="-2" attributes="0"/>
+                                      <Component id="jScrollPane2" min="-2" pref="933" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="20" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="jLabel4" min="-2" max="-2" attributes="0"/>
+                                  <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="jLabel2" max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace pref="20" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jLabel4" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jLabel5" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jLabel6" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="37" max="-2" attributes="0"/>
+                      <Component id="jLabel7" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jScrollPane2" min="-2" pref="850" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jLabel8" min="-2" pref="130" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="jScrollPane3" min="-2" pref="1083" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="jLabel9" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jScrollPane4" min="-2" pref="671" max="-2" attributes="0"/>
+                      <EmptySpace max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JLabel" name="jLabel1">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="36" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Indian Institute Of Technology Bombay"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel2">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="20" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="FINANCIAL SUPPORT TO STUDENTS FOR ATTENDING INTERNATIONAL CONFERENCE/SYMPOSIUM"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel3">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="18" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Types of support and Eligibility"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel4">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="18" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Two types of financial support are offered :"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel5">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="18" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="1) Financial Assistance"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel6">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="18" style="0"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="2) Refundable Advance"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel7">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="18" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="1. Financial Assistance"/>
+              </Properties>
+            </Component>
+            <Container class="javax.swing.JScrollPane" name="jScrollPane2">
+              <Properties>
+                <Property name="verticalScrollBarPolicy" type="int" value="21"/>
+              </Properties>
+              <AuxValues>
+                <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+              </AuxValues>
+
+              <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+              <SubComponents>
+                <Component class="javax.swing.JTextArea" name="jTextArea1">
+                  <Properties>
+                    <Property name="editable" type="boolean" value="false"/>
+                    <Property name="columns" type="int" value="20"/>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Times New Roman" size="18" style="0"/>
+                    </Property>
+                    <Property name="lineWrap" type="boolean" value="true"/>
+                    <Property name="rows" type="int" value="5"/>
+                    <Property name="tabSize" type="int" value="5"/>
+                    <Property name="text" type="java.lang.String" value="The Financial Assistance is provided as per the guidelines approved by the BoG meeting held on 08th December, 2022  (Item No. 13, 263rd meeting of BoG). The Assistance is granted to a Research Scholar through his/her faculty supervisor. The norms approved are as follows.&#xa;&#xa;N1:&#xa;Support would be granted according to Scheme G1 or Scheme G2 described below. Most Research Scholars/Project Staff would be granted support according to Scheme G1; some selected categories of Research Scholars would be granted support according to Scheme G2, based on the consideration that those categories of Research Scholars are also expected to seek support from their parent organizations. The description following G2 includes a mention of which Research Scholars are marked out for support as in G2. Project staff would normally be considered for support according to Scheme G1. If that is not feasible due to unavailability of sufficient funds or for other reasons, then support for them according to Scheme G2 shall be considered.&#xa;&#xa;Schemes G1 and G2 for Support:&#xa;&#xa;Scheme G1 : This is applicable for all Research Scholars except those listed under the Scheme G2 below, as also to most project staff as explained in Norm N1 above. The Support granted would be as follows:&#xa;For conferences/workshops/symposia organized within :&#xa;     a) Group A : North America, Australia, South America, New Zealand: Rs. 2,20,000/-&#xa;     b) Group B : Europe, Far-East Asia, Japan, China, Hong Kong, Taiwan, Korea, Indonesia, Africa: Rs. 1,70,000/-&#xa;     c) Group C : Neighbouring Countries, Sri Lanka, Nepal, Bangladesh, Burma, Pakistan, Gulf Countries, Singapore, Malaysia,                          Thailand, Maldives: Rs. 1,20,000/-&#xa;&#xa;Scheme G2 : This is applicable only to Research Scholars belonging to the Sponsored (SW) and College Teacher (CT) Categories, not normally resident on campus. It is also applicable to project staff, only when they cannot be granted support according to Scheme G1 for one or more reason(s).&#xa;For conferences/workshops/symposia organized within :&#xa;     a) Group A : North America, Australia, South America, New Zealand: Rs. 1,10,000/-&#xa;     b) Group B : Europe, Far-East Asia, Japan, China, Hong Kong, Taiwan, Korea, Indonesia, Africa: Rs. 85,000/-&#xa;     c) Group C : Neighbouring Countries, Sri Lanka, Nepal, Bangladesh, Burma, Pakistan, Gulf Countries, Singapore, Malaysia, &#x9;&#x9;  Thailand, Maldives: Rs. 60,000/-&#xa;&#xa;The above amounts are inclusive of the following:&#xa;     i)   Travel&#xa;     ii)  Registration fees&#xa;     iii) DA (including local travel, food bills and local stay as given below)&#xa;&#xa;Maximum admissible DA rates are given in Table below:"/>
+                    <Property name="wrapStyleWord" type="boolean" value="true"/>
+                    <Property name="autoscrolls" type="boolean" value="false"/>
+                    <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                      <Border info="org.netbeans.modules.form.compat2.border.EmptyBorderInfo">
+                        <EmptyBorder/>
+                      </Border>
+                    </Property>
+                    <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                      <Color id="Default Cursor"/>
+                    </Property>
+                  </Properties>
+                </Component>
+              </SubComponents>
+            </Container>
+            <Container class="javax.swing.JScrollPane" name="jScrollPane3">
+              <AuxValues>
+                <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+              </AuxValues>
+
+              <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+              <SubComponents>
+                <Component class="javax.swing.JTextArea" name="jTextArea2">
+                  <Properties>
+                    <Property name="editable" type="boolean" value="false"/>
+                    <Property name="columns" type="int" value="20"/>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Times New Roman" size="18" style="0"/>
+                    </Property>
+                    <Property name="lineWrap" type="boolean" value="true"/>
+                    <Property name="rows" type="int" value="5"/>
+                    <Property name="text" type="java.lang.String" value="Columns (a) &amp; (b) indicate maximum admissible DA rates that can be claimed out of the total amounts indicated in Scheme G1 and G2 as per details given below:&#xa;&#xa;Column(a) : The maximum permissible amounts on account of DA that can be claimed per day (without production of any bills or receipts). Such DA shall be permissible for the days of the Conference and one day each prefix and suffix to the Conference.&#xa;&#xa;Column (b) : Maximum permissible DA including hotel bill with payment proof in original for days of Conference and one day each prefixed and suffixed to the Conference.&#xa;&#xa;The advances provided under Scheme G1 &amp; G2 have to be settled as per Institute norms for proof of travel and stay.&#xa;&#xa;N2 : Students in the Doctoral (Ph.D., Dual Degree Master&apos;s+Ph.D.) Programmes only would be given support.&#xa;&#xa;N3 : Project Staff (PS) would be considered separately in a different queue for support from funds made available from the IRCC.&#xa;&#xa;N4 : Efforts to maintain an equitable distribution of support to the extent feasible to most academic units would continue, as has been the case to date.&#xa;&#xa;N5 : When the need arises to make such a distinction, conferences/workshops with a more stringent review process/ more demanding standards for acceptance would be given priority.&#xa;&#xa;A Research Scholar can secure only one support before the Conference i.e. either financial assistance from the institute or refundable advance against grants from other agencies, e.g. CSIR/DST/INSA/AeSI/DBT etc., to meet the total expense.&#xa;&#xa;Important points to note : &#xa;While selecting candidates from a Department for the financial assistance quality of the paper is given the &#x9;&#x9;highest consideration. The order of preference is given below : &#xa;     1) Full paper based selection and oral presentation.&#xa;     2) Full paper based selection and poster presentation.&#xa;     3) Abstract based selection and oral presenttation.&#xa;     4) Abstract based selection and poster presentation.&#xa; &#x9;  &#x9; &#x9; &#xa;A Research Scholar will be given the support provided he/she continues to be a student for at least a month after attending the Conference. He/She will not normally be given more than one chance in his/her full Ph.D. duration. Students must obtain prior approval (before attanding Conference) from the International Conference Funding Committee.&#xa;&#xa;HOW TO APPLY&#x9; &#xa;1) FOR FINANCIAL ASSISTANCE FROM THE INSTITUTE.&#x9; &#xa;On acceptance of abstract /full paper/ invitation from the conference organizers, the eligible Research Scholar should apply for Institute support in the prescribed format (Application Form for Financial Assistance to Student for Attending International Conference/Symposium) along with relevant enclosures. This application is to be submitted to the Dean (A.P.) office for further consideration.&#x9; &#xa; &#x9; &#x9; &#x9; &#xa;Upon sanction of grant for the Financial Support of the Institute by the designated committee, the student concerned is required to submit one more form (Form for No Objection Certificate for Visa and Grant of advance for attending International Conference.) duly signed by the student and his / her faculty supervisor and approved by Dean (A.P.) to the Academic Section for further processing."/>
+                    <Property name="wrapStyleWord" type="boolean" value="true"/>
+                    <Property name="autoscrolls" type="boolean" value="false"/>
+                    <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                      <Border info="org.netbeans.modules.form.compat2.border.EmptyBorderInfo">
+                        <EmptyBorder/>
+                      </Border>
+                    </Property>
+                  </Properties>
+                </Component>
+              </SubComponents>
+            </Container>
+            <Container class="javax.swing.JScrollPane" name="jScrollPane4">
+              <AuxValues>
+                <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+              </AuxValues>
+
+              <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+              <SubComponents>
+                <Component class="javax.swing.JTextArea" name="jTextArea3">
+                  <Properties>
+                    <Property name="editable" type="boolean" value="false"/>
+                    <Property name="columns" type="int" value="20"/>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Times New Roman" size="18" style="0"/>
+                    </Property>
+                    <Property name="lineWrap" type="boolean" value="true"/>
+                    <Property name="rows" type="int" value="5"/>
+                    <Property name="text" type="java.lang.String" value="The Institute provides the Refundable Advance to a Research Scholar to tide over financial difficulities at the pre-conference stage against sanction letter of supporting organization/institution through his/her faculty supervisor on the recommendation of the Head of the Department and approval of Dean (A.P.). This is given only if the Research Scholar has not applied for/ collected financial assistance before the Conference.However he can get reimbursement for the additional expences incurred towards the conference after attanding the conference provided he has been sanctioned financial assistance from the institute funds.&#x9; &#xa; &#x9; &#x9; &#x9; &#xa;Upon receipt of the sanction letter from the funding agency such as CSIR / DST / INSA / AeSI / DBT etc., the Research Scholar concerned should apply for advance from the Institute in the prescribed format (Form for Refundable Advance). The application for refundable advance should duly be signed by the Research Scholar and his / her faculty Adviser and forwarded by the concerned Head of the Department for approval of the Dean (A.P.). The concerned Research Scholar has to complete all these formalities and submit the application to the Academic Section for further necessary action.&#x9; &#xa; &#x9; &#x9; &#x9; &#xa;HOW TO USE THE GRANT&#x9; &#xa;    The grant may be used for conference registration, visa, air-travel, hotel, food, local travel abroad etc. It may be combined with grants from other sources.The total number of days for which daily allowance can be claimed should in no case exceed the number of conference days plus one day before and one day after the conference.&#x9;  &#x9; &#xa;    All students will have to bear a fixed co-pay amount of 10% of actual airfare from their own funds. Thus 10% of airfare will be subtracted from total bill before above limits are applied to the balance bill.&#xa;    Students may travel by any airline/airlines of their choice suitable to their itinerary.&#xa;    If the Research Scholar is not able to attend the conference after obtaining the financial assistance / refundable advance, he / she should immediately refund the amount to the Institute. Failing which, necessary action deemed fit will be taken.&#x9; &#xa; &#x9; &#x9; &#xa;SETTLEMENT OF FINANCIAL ASSISTANCE/REFUNDABLE ADVANCE.&#x9; &#xa;On return from the Conference, the Research Scholar must&#x9; &#xa;     1) Submit a report on participation through the Faculty Supervisor / HoD within 1 month to academic office.&#xa;     2) Submit settlement of financial assistance granted by the Institute (by listing all the expenses incurred in an orderly manner and duly enclosing all supporting documents) within 10 days to the academic office. and&#xa;     3) Submit settlement of financial assistance to concerned funding agency to get the fund sanctioned by it, for settlement of refundable advance given by the Institute at the earliest (within 3 months after the conference)."/>
+                    <Property name="wrapStyleWord" type="boolean" value="true"/>
+                    <Property name="autoscrolls" type="boolean" value="false"/>
+                    <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                      <Border info="org.netbeans.modules.form.compat2.border.EmptyBorderInfo">
+                        <EmptyBorder/>
+                      </Border>
+                    </Property>
+                  </Properties>
+                </Component>
+              </SubComponents>
+            </Container>
+            <Component class="javax.swing.JLabel" name="jLabel9">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="18" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="2. Refundable Advance :"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel8">
+              <Properties>
+                <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                  <Image iconType="3" name="/com/raven/icon/amount.png"/>
+                </Property>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
